@@ -1,7 +1,7 @@
 #  📊 Sales Case Study Dashboard
 
 ## Project Overview
-
+https://fnbsalescasestudy.lovable.app
 This project analyzes a simulated retail sales dataset containing daily trading information for a single product sold by a large retail store. The objective was to transform raw transactional data into meaningful business insights by calculating key performance metrics, identifying sales trends, evaluating profitability, and assessing the effectiveness of promotional pricing.
 
 The project demonstrates an end-to-end data analytics workflow, including data exploration, data cleaning, SQL transformations, metric development, dashboard design, and business recommendations.
@@ -154,30 +154,7 @@ Based on the analysis, recommendations include:
 9. Business Insights
 10. Business Recommendations
 
----
-
-## Repository Structure
-
-```text
-Sales-Case-Study/
-│
-├── Dataset/
-│   └── Sales Case Study.xlsx
-│
-├── SQL/
-│   ├── Data_Cleaning.sql
-│   ├── CTE_Analysis.sql
-│   ├── Metrics.sql
-│
-├── Dashboard/
-│   ├── Dashboard.pbix (or dashboard screenshots)
-│   └── Dashboard Images/
-│
-├── README.md
-└── LICENSE
-```
-
----
+------
 
 ## Learning Outcomes
 
@@ -193,7 +170,7 @@ Through this project, I strengthened my skills in:
 * Business decision support
 
 ---
-
+https://fnbsalescasestudy.lovable.app
 ## Author
 
 **Hitekani Masingi**
