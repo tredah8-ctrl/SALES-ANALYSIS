@@ -2,6 +2,10 @@
 
 ## Project Overview
 https://fnbsalescasestudy.lovable.app
+
+https://dbc-87469d14-47f7.cloud.databricks.com/editor/queries/836460385865334?contextId=sql-editor&o=7474653291933623
+
+
 This project analyzes a simulated retail sales dataset containing daily trading information for a single product sold by a large retail store. The objective was to transform raw transactional data into meaningful business insights by calculating key performance metrics, identifying sales trends, evaluating profitability, and assessing the effectiveness of promotional pricing.
 
 The project demonstrates an end-to-end data analytics workflow, including data exploration, data cleaning, SQL transformations, metric development, dashboard design, and business recommendations.
