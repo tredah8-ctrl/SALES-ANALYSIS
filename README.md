@@ -1,4 +1,4 @@
-#  📊 Sales Case Study Dashboard
+#  📊 Sales Case Study
 
 ## Project Overview
 https://fnbsalescasestudy.lovable.app
